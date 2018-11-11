@@ -1,0 +1,8 @@
+{
+  "Server" : "127.0.0.1:8080",
+  "DBHost" : "localhost",
+  "DBPort" : "5432",
+  "DBUser"	: "postgres",
+  "DBPwd"	: "root",
+  "Database"    : "go_test"
+}
